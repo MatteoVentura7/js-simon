@@ -6,6 +6,9 @@
     display: inline;
 }
 
+.d-none-input {
+    display: none;
+}
 
 #display {
     text-align: center;
@@ -31,5 +34,34 @@
     cursor: pointer;
     padding: .625rem;
     border-radius: .3125rem;
+}
+
+#button2 {
+    color: white;
+    background-color: #0D6EFD;
+    border: none;
+    cursor: pointer;
+    padding: .625rem;
+    border-radius: .3125rem;
+}
+
+.timer {
+    text-align: center;
+    font-size: 3.125rem;
+    padding-top: 1.875rem;
+    padding-bottom: 1.875rem;
+}
+
+.text-card {
+    text-align: center;
+    padding-bottom: 1.25rem;
+}
+
+.input {
+    text-align: center;
+}
+
+input {
+    width: 3.125rem;
 }
 
