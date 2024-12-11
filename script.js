@@ -28,7 +28,7 @@ FormElm.addEventListener("submit",function(event) {
       
     
 
-    let second =1;
+    let second =30;
 
     const intervalID = setInterval(() => {
     if(second === 0) {
